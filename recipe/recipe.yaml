@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.8.0"
+  version: "0.8.1"
 
 package:
   name: mkdocs-swagger-ui-tag
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/m/mkdocs-swagger-ui-tag/mkdocs_swagger_ui_tag-${{ version }}.tar.gz
-  sha256: e6db4ae95aa224e153837cc1fd347bdb6b66be776ae7f36ca0db505e5aa87c43
+  sha256: 15f199ca7734c50c088c53bfe9ec806768ad97816badb3a4e72af4e9434252db
 
 build:
   number: 0
